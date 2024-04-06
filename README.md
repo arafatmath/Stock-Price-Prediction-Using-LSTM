@@ -1,1 +1,2 @@
 # Stock-Price-Prediction-Using-LSTM
+This collaborative project was conducted during the Erdos Institute Data Science Boot Camp in Summer 2022. We employed a deep recurrent neural network LSTM to predict stock prices for AMD, Facebook, Apple, Tesla, and Starbucks. The Jupiter notebook file containing our work is named "main.ipynb," while detailed results are presented in the accompanying presentation slides.
